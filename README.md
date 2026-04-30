@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="results/gait_gif.gif" width="850">
+  <img src="results/gait_gif.gif" width="250">
 </p>
 
 <h1 align="center">Learning Bipedal Walking with Reinforcement Learning</h1>
@@ -109,7 +109,7 @@ tensorboard --logdir=logs/sac
 ### PPO vs SAC Comparison
 
 <p align="center">
-  <img src="results/PPO_vs_SAC_reward.png" width="800">
+  <img src="results/PPO_vs_SAC_reward.png" width="250">
 </p>
 
 The graph above compares cumulative reward growth for PPO and SAC during training. Both algorithms successfully learned forward locomotion, while showing noticeable differences in convergence speed and exploration behavior.
@@ -117,7 +117,7 @@ The graph above compares cumulative reward growth for PPO and SAC during trainin
 ### Learned Locomotion Behavior
 
 <p align="center">
-  <img src="results/gait_capture.png" width="750">
+  <img src="results/gait_capture.png" width="250">
 </p>
 
 Beyond numerical rewards, the final walking style of the trained agent was visually analyzed to study balance, smoothness, and gait consistency.
