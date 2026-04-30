@@ -117,10 +117,6 @@ tensorboard --logdir=logs/sac
 
 ## Results Snapshot
 
-### Demo Video
-
-- SAC and PPO Agent Demo: [View Video](results/demo_videos/SAC_vs_PPO_gait_analysis.mp4)
-
 ### PPO vs SAC Comparison
 
 <p align="center">
